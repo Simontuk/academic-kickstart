@@ -18,18 +18,35 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "shopware"
+  icon_pack = "fab"
+  name = "E-Commerce with Shopware"
+  description = "70%"
 
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "70%"
+
+[[feature]]
+  icon = "centos"
+  icon_pack = "fab"
+  name = "CentOS High Performance Cluster"
+  description = "80%"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  description = "100%"
 +++

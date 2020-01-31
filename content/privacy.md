@@ -1,7 +1,7 @@
 ---
-title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
-draft: true
+title: Impressum
+date: "2020-01-31T00:00:00+01:00"
+draft: false
 share: false
 commentable: false
 editable: false
@@ -11,5 +11,10 @@ header:
   caption: ""
   image: ""
 ---
+Angaben gemäß § 5 TMG
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Simon Steiger  
+69120 Heidelberg
+
+Kontakt:  
+E-Mail: simon.steiger@gmail.com

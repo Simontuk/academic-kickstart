@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Simon Steiger
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Masters student in Molecular Biotechnology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University Heidelberg
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Creating insight from data and uncovering underlying mechanisms in life science, in business and in IT.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioinformatics 
+- Single Cell Genomics
+- Data Science and Visualization
+- Shoe Business and ERP
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Molecular Biotechnology
+    institution: University Heidelberg
+    year: expected 2020
+  - course: BSc in Molecular Biotechnology
+    institution: University Heidelberg
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:simon.steiger@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/simontuk
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/simon-steiger/
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Simon_Steiger
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/simontuk
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +71,14 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interest centers around the application and development of tools for the analysis of sequencing data. A special emphasis of my work is in genomics and the work with single-cell sequencing data.
+I try to create insight from data, uncovering underlying mechanisms not just in life sciences, but also in shoe business and in IT management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I thrive collaborating in interdisciplinary labs, trying to understand the needs and differences of computational and wet-lab biology. 
+
+For my master thesis I'm working with Stephan Tirier on using Single Cell RNAseq data to understand different molecular aspects of Multiple Myeloma. We aim to unravel cellular interactions between Multiple Myeloma cells and the microenvironment. Additionally we want to map cellular states of Myeloma cells to a developmental B-cell stage of healthy cells derived from the Human Cell Atlas. For this project I am working at the lab of Prof. Karsten Rippe at the bioquant in Heidelberg.[Chromatin Networks][3]
+
+
+[1]:	https://gohugo.io/
+[2]:	https://github.com/rstudio/blogdown
+[3]:	https://malone.bioquant.uni-heidelberg.de/
